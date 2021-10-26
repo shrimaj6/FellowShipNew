@@ -1,0 +1,7 @@
+C:\Users\shrimaj\source\repos\shri\shri\bin\Debug\shri.exe.config
+C:\Users\shrimaj\source\repos\shri\shri\bin\Debug\shri.exe
+C:\Users\shrimaj\source\repos\shri\shri\bin\Debug\shri.pdb
+C:\Users\shrimaj\source\repos\shri\shri\obj\Debug\shri.csproj.AssemblyReference.cache
+C:\Users\shrimaj\source\repos\shri\shri\obj\Debug\shri.csproj.CoreCompileInputs.cache
+C:\Users\shrimaj\source\repos\shri\shri\obj\Debug\shri.exe
+C:\Users\shrimaj\source\repos\shri\shri\obj\Debug\shri.pdb
